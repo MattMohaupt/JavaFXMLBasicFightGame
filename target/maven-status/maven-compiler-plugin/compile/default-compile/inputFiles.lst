@@ -1,0 +1,12 @@
+/home/mattq/Desktop/projects/javafg/src/main/java/com/example/Main.java
+/home/mattq/Desktop/projects/javafg/src/main/java/com/example/controller/GameController.java
+/home/mattq/Desktop/projects/javafg/src/main/java/com/example/controller/LoseController.java
+/home/mattq/Desktop/projects/javafg/src/main/java/com/example/controller/StartController.java
+/home/mattq/Desktop/projects/javafg/src/main/java/com/example/controller/WinController.java
+/home/mattq/Desktop/projects/javafg/src/main/java/com/example/entity/AttackType.java
+/home/mattq/Desktop/projects/javafg/src/main/java/com/example/entity/Enemy.java
+/home/mattq/Desktop/projects/javafg/src/main/java/com/example/entity/Player.java
+/home/mattq/Desktop/projects/javafg/src/main/java/com/example/level/Level.java
+/home/mattq/Desktop/projects/javafg/src/main/java/com/example/level/Level1.java
+/home/mattq/Desktop/projects/javafg/src/main/java/com/example/level/Level2.java
+/home/mattq/Desktop/projects/javafg/src/main/java/com/example/level/Level3.java
